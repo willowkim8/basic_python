@@ -1,5 +1,5 @@
 import module2
 
 print(__name__)
-print('----------------')
+print('----------')
 module2.hello()

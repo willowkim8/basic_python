@@ -15,7 +15,7 @@ C 언어와 java같은 경우에은 main문이 있지만,
 (jupyter notebook에서는 안됩니다. 이유는 아직 찾고 있습니다.)  
 VSC에서 
 ```
-#module.py
+# module.py
 
 def hello():
     print("Hello!")
@@ -25,7 +25,7 @@ print(__name__)
 위의 python 파일을 저장하고
 
 ```
-#main.py
+# main.py
 
 import module
 

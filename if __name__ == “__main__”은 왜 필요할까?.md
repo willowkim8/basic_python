@@ -57,3 +57,6 @@ module2.hello()
 ```
 main2.py를 실행하면 `module`출력없이 아래와 같이 출력된다.  
 ![Screenshot from 2021-06-15 13-57-04](https://user-images.githubusercontent.com/74230043/121995295-abe24300-cde1-11eb-8ae9-024bf376c58c.png)  
+
+
+참고 :  https://kimvampa.tistory.com/27

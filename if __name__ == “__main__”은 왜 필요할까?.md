@@ -35,6 +35,8 @@ module.hello()
 ```
 위의 파일을 실행하면 `__name__`에 `module`이 함께 출력되어 나온다.   
 ![Screenshot from 2021-06-15 11-10-38](https://user-images.githubusercontent.com/74230043/121982803-323f5a80-cdcb-11eb-8ebb-84d5d3beedbe.png)  
+
+
 module.py에 `if __name__ == "__main__"`을 추가하고 출력해보자.
 ```
 # module2.py
